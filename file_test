@@ -1,0 +1,1 @@
+"Analysis: The data is likely more spread out or skewed. This suggests that the 'Customer Age' does not follow a perfect normal distribution, and we should be careful using models that assume normality."
