@@ -1,1 +1,3 @@
 "Analysis: The data is likely more spread out or skewed. This suggests that the 'Customer Age' does not follow a perfect normal distribution, and we should be careful using models that assume normality."
+
+"Analysis: The data is more 'peaked' (leptokurtic) than a normal distribution. More customers are clustered tightly around the average age than the 68% rule predicts."
